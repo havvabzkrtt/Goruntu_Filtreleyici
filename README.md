@@ -14,3 +14,6 @@ Aşağıdaki görüntü filtreleme işlemlerini yerine getirmektedir:
 * High Pass
 * Renk Uyumlaması (İki resim arasında)
 * Resim Karıştırma (İki resim arasında)
+
+Aşağıda filtreleyicinin arayüzü yer almakta.
+
